@@ -1,7 +1,8 @@
 algoritmo "04"
 var
-nome: caracter
+    nome: caracter
 inicio
-nome <- "Henrique"
-escreval ("Olá! Meu nome é ", nome, " e estou aprendendo Algoritmo.")
+    nome <- "Henrique"
+    escreval("Olá! Meu nome é ", nome, " e estou aprendendo Algoritmo.")
+
 fimalgoritmo
