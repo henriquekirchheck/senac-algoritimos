@@ -4,32 +4,32 @@ version = "0.1.0"
 edition = "2021"
 
 [[bin]]
-name = "01"
-path = "src/01.rs"
+name = "001"
+path = "src/001.rs"
 [[bin]]
-name = "02"
-path = "src/02.rs"
+name = "002"
+path = "src/002.rs"
 [[bin]]
-name = "03"
-path = "src/03.rs"
+name = "003"
+path = "src/003.rs"
 [[bin]]
-name = "04"
-path = "src/04.rs"
+name = "004"
+path = "src/004.rs"
 [[bin]]
-name = "05"
-path = "src/05.rs"
+name = "005"
+path = "src/005.rs"
 [[bin]]
-name = "06"
-path = "src/06.rs"
+name = "006"
+path = "src/006.rs"
 [[bin]]
-name = "07"
-path = "src/07.rs"
+name = "007"
+path = "src/007.rs"
 [[bin]]
-name = "08"
-path = "src/08.rs"
+name = "008"
+path = "src/008.rs"
 [[bin]]
-name = "09"
-path = "src/09.rs"
+name = "009"
+path = "src/009.rs"
 [[bin]]
 name = "tabuada"
 path = "src/tabuada.rs"
