@@ -1,4 +1,4 @@
-algoritmo "01"
+algoritmo "001"
 inicio
     escreval("ola mundo!")
 

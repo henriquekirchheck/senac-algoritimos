@@ -1,4 +1,4 @@
-algoritmo "09"
+algoritmo "009"
 var
     nome1: caractere
     nome2: caractere

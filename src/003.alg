@@ -1,4 +1,4 @@
-algoritmo "03"
+algoritmo "003"
 var
     num: vetor [0..4] de inteiro
     i: inteiro

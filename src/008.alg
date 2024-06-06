@@ -1,4 +1,4 @@
-algoritmo "08"
+algoritmo "008"
 var
     num: vetor [0..2] de real
     max: real

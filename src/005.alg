@@ -1,4 +1,4 @@
-algoritmo "05"
+algoritmo "005"
 var
     nome: caractere
     sobrenome: caractere

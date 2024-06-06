@@ -1,4 +1,4 @@
-algoritmo "07"
+algoritmo "007"
 var
     num: vetor [0..4] de inteiro
     max: inteiro

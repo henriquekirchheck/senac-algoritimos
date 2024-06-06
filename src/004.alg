@@ -1,4 +1,4 @@
-algoritmo "04"
+algoritmo "004"
 var
     nome: caracter
 inicio
