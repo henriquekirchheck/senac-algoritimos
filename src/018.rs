@@ -1,7 +1,6 @@
 use utils::inputln;
 
 fn main() {
-    let num = inputln!(<f64>! "Digite numero: ");
-    println!("Dobro: {}", num * 2.);
-    println!("Terço: {}", num / 3.);
+    let num = inputln!(<f64>! "Digite salario: ");
+    println!("Salario com aumento: {}", num * 1.15);
 }

@@ -2,9 +2,8 @@ algoritmo "011"
 var
     num: real
 inicio
-    escreva("Digite numero: ")
+    escreva("Digite o salario: ")
     leia(num)
-    escreval("Dobro:", num * 2)
-    escreval("Terço:", num / 3)
+    escreval("Salario com aumento:", num * 1.15)
 
 fimalgoritmo
