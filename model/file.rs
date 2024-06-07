@@ -1,1 +1,5 @@
-fn main() {}
+use utils::inputln;
+
+fn main() {
+
+}

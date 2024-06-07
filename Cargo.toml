@@ -1,64 +1,105 @@
-[package]
-name = "utils"
-version = "0.1.0"
-edition = "2021"
-
 [[bin]]
 name = "001"
 path = "src/001.rs"
+
 [[bin]]
 name = "002"
 path = "src/002.rs"
+
 [[bin]]
 name = "003"
 path = "src/003.rs"
+
 [[bin]]
 name = "004"
 path = "src/004.rs"
+
 [[bin]]
 name = "005"
 path = "src/005.rs"
+
 [[bin]]
 name = "006"
 path = "src/006.rs"
+
 [[bin]]
 name = "007"
 path = "src/007.rs"
+
 [[bin]]
 name = "008"
 path = "src/008.rs"
+
 [[bin]]
 name = "009"
 path = "src/009.rs"
+
 [[bin]]
 name = "010"
 path = "src/010.rs"
+
 [[bin]]
 name = "011"
 path = "src/011.rs"
+
 [[bin]]
 name = "012"
 path = "src/012.rs"
+
 [[bin]]
 name = "013"
 path = "src/013.rs"
+
 [[bin]]
 name = "014"
 path = "src/014.rs"
+
 [[bin]]
 name = "015"
 path = "src/015.rs"
+
 [[bin]]
 name = "016"
 path = "src/016.rs"
+
 [[bin]]
 name = "017"
 path = "src/017.rs"
+
 [[bin]]
 name = "018"
 path = "src/018.rs"
+
+[[bin]]
+name = "019"
+path = "src/019.rs"
+
 [[bin]]
 name = "tabuada"
 path = "src/tabuada.rs"
 
+[[bin]]
+name = "generate_new_files"
+path = "src/generate_new_files.rs"
+
+[[bin]]
+name = "020"
+path = "./src/020.rs"
+
+[[bin]]
+name = "021"
+path = "./src/021.rs"
+
 [dependencies]
+serde = "1.0.203"
+serde_derive = "1.0.203"
+toml = "0.8.14"
+
+[dependencies.clap]
+features = ["derive"]
+version = "4.5.6"
+
+[package]
+edition = "2021"
+name = "utils"
+version = "0.1.0"
