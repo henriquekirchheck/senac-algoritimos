@@ -114,7 +114,32 @@ path = "./src/026.rs"
 name = "027"
 path = "./src/027.rs"
 
+[[bin]]
+name = "028"
+path = "./src/028.rs"
+
+[[bin]]
+name = "029"
+path = "./src/029.rs"
+
+[[bin]]
+name = "030"
+path = "./src/030.rs"
+
+[[bin]]
+name = "031"
+path = "./src/031.rs"
+
+[[bin]]
+name = "032"
+path = "./src/032.rs"
+
+[[bin]]
+name = "033"
+path = "./src/033.rs"
+
 [dependencies]
+chrono = "0.4.38"
 serde = "1.0.203"
 serde_derive = "1.0.203"
 toml = "0.8.14"
