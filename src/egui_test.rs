@@ -1,7 +1,6 @@
 use clap::Parser;
 use eframe::egui;
 use egui_extras::install_image_loaders;
-use reqwest::blocking::Client;
 use rustemon::model::pokemon::Pokemon;
 
 #[derive(Debug, Parser)]
