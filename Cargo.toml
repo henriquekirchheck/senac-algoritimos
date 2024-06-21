@@ -75,8 +75,8 @@ name = "019"
 path = "src/019.rs"
 
 [[bin]]
-name = "tabuada"
-path = "src/tabuada.rs"
+name = "051"
+path = "src/051.rs"
 
 [[bin]]
 name = "generate_new_files"
@@ -173,6 +173,54 @@ path = "./src/040.rs"
 [[bin]]
 name = "041"
 path = "./src/041.rs"
+
+[[bin]]
+name = "042"
+path = "./src/042.rs"
+
+[[bin]]
+name = "043"
+path = "./src/043.rs"
+
+[[bin]]
+name = "044"
+path = "./src/044.rs"
+
+[[bin]]
+name = "045"
+path = "./src/045.rs"
+
+[[bin]]
+name = "046"
+path = "./src/046.rs"
+
+[[bin]]
+name = "047"
+path = "./src/047.rs"
+
+[[bin]]
+name = "048"
+path = "./src/048.rs"
+
+[[bin]]
+name = "049"
+path = "./src/049.rs"
+
+[[bin]]
+name = "050"
+path = "./src/050.rs"
+
+[[bin]]
+name = "052"
+path = "./src/052.rs"
+
+[[bin]]
+name = "053"
+path = "./src/053.rs"
+
+[[bin]]
+name = "054"
+path = "./src/054.rs"
 
 [dependencies]
 chrono = "0.4.38"
