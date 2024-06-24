@@ -230,6 +230,22 @@ path = "./src/055.rs"
 name = "056"
 path = "./src/056.rs"
 
+[[bin]]
+name = "bissexto"
+path = "./src/bissexto.rs"
+
+[[bin]]
+name = "057"
+path = "./src/057.rs"
+
+[[bin]]
+name = "058"
+path = "./src/058.rs"
+
+[[bin]]
+name = "059"
+path = "./src/059.rs"
+
 [dependencies]
 chrono = "0.4.38"
 eframe = "0.27.2"
