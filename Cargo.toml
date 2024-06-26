@@ -266,6 +266,38 @@ path = "./src/063.rs"
 name = "064"
 path = "./src/064.rs"
 
+[[bin]]
+name = "065"
+path = "./src/065.rs"
+
+[[bin]]
+name = "066"
+path = "./src/066.rs"
+
+[[bin]]
+name = "067"
+path = "./src/067.rs"
+
+[[bin]]
+name = "068"
+path = "./src/068.rs"
+
+[[bin]]
+name = "069"
+path = "./src/069.rs"
+
+[[bin]]
+name = "070"
+path = "./src/070.rs"
+
+[[bin]]
+name = "071"
+path = "./src/071.rs"
+
+[[bin]]
+name = "072"
+path = "./src/072.rs"
+
 [dependencies]
 chrono = "0.4.38"
 eframe = "0.27.2"
