@@ -89,3 +89,7 @@ mod test {
         let _ = inputln!(<String>! "Hello, {}!", "World");
     }
 }
+
+pub fn is_prime(num: usize) -> bool {
+    !(2..(num >> 1)).any(|i| num % i == 0)
+}
