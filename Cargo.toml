@@ -354,6 +354,30 @@ path = "./src/085.rs"
 name = "086"
 path = "./src/086.rs"
 
+[[bin]]
+name = "087"
+path = "./src/087.rs"
+
+[[bin]]
+name = "088"
+path = "./src/088.rs"
+
+[[bin]]
+name = "089"
+path = "./src/089.rs"
+
+[[bin]]
+name = "090"
+path = "./src/090.rs"
+
+[[bin]]
+name = "091"
+path = "./src/091.rs"
+
+[[bin]]
+name = "092"
+path = "./src/092.rs"
+
 [dependencies]
 chrono = "0.4.38"
 eframe = "0.27.2"
