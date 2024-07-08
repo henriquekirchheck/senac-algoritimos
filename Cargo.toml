@@ -378,9 +378,22 @@ path = "./src/091.rs"
 name = "092"
 path = "./src/092.rs"
 
+[[bin]]
+name = "093"
+path = "./src/093.rs"
+
+[[bin]]
+name = "094"
+path = "./src/094.rs"
+
+[[bin]]
+name = "095"
+path = "./src/095.rs"
+
 [dependencies]
 chrono = "0.4.38"
 eframe = "0.27.2"
+inquire = "0.7.5"
 rustemon = "3.4.1"
 serde = "1.0.203"
 serde_derive = "1.0.203"
